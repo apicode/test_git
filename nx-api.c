@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//this is entry point!
 int main(void)
 {
 	printf("hello world!\n");

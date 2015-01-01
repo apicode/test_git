@@ -5,3 +5,4 @@ merge test
 after stage state, modified this file.
 
 git diff command test
+git pull test
